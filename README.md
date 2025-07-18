@@ -75,21 +75,87 @@
 
 ---
 
-## 🤝 Kết Nối & Hợp Tác
+<!-- 🤝 Kết Nối & Hợp Tác -->
+<div align="center">
+  <!-- Main Content -->
+  <div>
+    <h2>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+      <strong>Kết Nối & Hợp Tác</strong>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    </h2>
+  </div>
+  
+  <!-- Connection Cards -->
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/💌_Sẵn_Sàng-Hợp_Tác-brightgreen?style=for-the-badge&labelColor=1e1e2e&color=89b4fa"/>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/🚀_Luôn-Học_Hỏi-orange?style=for-the-badge&labelColor=1e1e2e&color=fab387"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <!-- Contact Information -->
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:danhcodelabs@gmail.com">
+          <img src="https://img.shields.io/badge/📧_Email-danhcodelabs@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e&color=f38ba8"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌍_Location-Việt_Nam_·_Remote_Ready-blue?style=for-the-badge&labelColor=1e1e2e&color=74c7ec"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <!-- Separator Line -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+  <br>
+  
+  <!-- Social Links -->
+  <div>
+    <h3>🔗 Kết Nối Trên Các Nền Tảng</h3>
+    <p>
+      <a href="https://github.com/yourusername">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e"/>
+      </a>
+      <a href="https://linkedin.com/in/yourprofile">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e2e"/>
+      </a>
+      <a href="https://twitter.com/yourhandle">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1e1e2e"/>
+      </a>
+    </p>
+  </div>
+  
+  <br>
+  
+  <!-- Thank You Message -->
+  <div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Cảm+ơn+bạn+đã+ghé+thăm+profile+của+tôi!;Hãy+cùng+nhau+xây+dựng+những+dự+án+tuyệt+vời!"/>
+  </div>
+  
+  <!-- Footer Wave -->
+<div align="center">
 
-<div align="center"> 
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danhcodelabs@gmail.com)
-
-### 💌 Luôn sẵn sàng hợp tác và học hỏi!  
-**📧 Email:** [danhcodelabs@gmail.com](mailto:danhcodelabs@gmail.com)  
-**🌍 Location:** Việt Nam – sẵn sàng làm việc từ xa
-
-![Profile Views](https://komarev.com/ghpvc/?username=DAnhCodeLabs&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
 
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
+  
+  <!-- View Counter -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=DAnhCodeLabs&label=Profile%20Views&color=89b4fa&style=for-the-badge"/>
+  </p>
+  
 </div>
